@@ -10,6 +10,8 @@ export default {
     
     const newUrl = `https://microcad.blob.core.windows.net/downloads/${dynamicPath}`
 
+    console.log(newUrl)
+
     return Response.redirect(newUrl, 301)
   },
 };
