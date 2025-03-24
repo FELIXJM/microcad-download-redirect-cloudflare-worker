@@ -1,0 +1,5 @@
+{
+  "name": "microcad-download-redirect-cloudflare-worker",
+  "compatibility_date": "2025-03-24",
+  "main": "src/index.js"
+}
